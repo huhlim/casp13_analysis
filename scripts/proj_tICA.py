@@ -4,8 +4,6 @@ import os
 import sys
 
 import pickle
-import scipy
-import scipy.stats
 import numpy as np
 import argparse
 
